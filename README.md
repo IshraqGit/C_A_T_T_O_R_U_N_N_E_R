@@ -29,7 +29,7 @@ The visual aspect of the game is where my creativity truly shines. All the pixel
 
 <div align="center">
 <!-- Insert an image of the game character or pixel art here -->
-<img src="https://drive.google.com/file/d/1gnFSLq6GboW6g2mqJlRISQvlXVqAHvqR/view?usp=drive_link" alt="Pixel Art Example" width="400">
+<img src="./ss/Screenshot_3.png" alt="Pixel Art Example" width="400">
 </div>
 
 <p>
@@ -50,7 +50,7 @@ To enhance the game’s functionality, I implemented multiple timers. These time
 
 <div align="center">
 <!-- Insert an image of the gameplay here -->
-<img src="https://drive.google.com/file/d/182oxX9I_wzb6ZFspHCdrqbMiTqm_vKLQ/view?usp=drive_link" alt="Gameplay Screenshot" width="400">
+<img src="./ss/Screenshot_2.png" alt="Gameplay Screenshot" width="400">
 </div>
 
 <p>
@@ -67,7 +67,7 @@ The game is designed to be user-friendly and straightforward. To start playing, 
 
 <div align="center">
 <!-- Insert an image of the main menu or a control screen here -->
-<img src="https://drive.google.com/file/d/1yH1HMYorHvG02ajWWs7p1_Rxa74HhW_H/view?usp=drive_link" alt="Main Menu Screenshot" width="400">
+<img src="./ss/Screenshot_1.png" alt="Main Menu Screenshot" width="400">
 </div>
 
 ---
